@@ -1,0 +1,3 @@
+link de GITHUB: https://github.com/anthonycaldas/Sensor_de_Humedad_Temp
+
+link de DASHBOARD: https://console.thinger.io/console/dashboards/mi_planta
